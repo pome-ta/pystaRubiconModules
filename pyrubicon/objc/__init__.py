@@ -128,4 +128,4 @@ __all__ = [
     "unichar",
 ]
 
-__version__ = None #version("rubicon-objc") # v0.5.6
+__version__ = version("rubicon-objc")   # v0.5.7
